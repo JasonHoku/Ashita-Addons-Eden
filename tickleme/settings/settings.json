@@ -1,0 +1,10 @@
+{
+    "debug": false,
+    "font": {
+        "color": 4294967295,
+        "family": "Arial",
+        "position": [ -217, -237 ],
+        "size": 14
+    },
+    "show_summary": false
+}

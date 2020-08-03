@@ -1,0 +1,55 @@
+{
+    "alerts": {
+        "emote": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "incoming_emote.wav"
+        },
+        "examined": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "you_have_been_examined.wav"
+        },
+        "gmtell": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "GM_alert.wav"
+        },
+        "inventory": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "full_inventory.wav"
+        },
+        "invite": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "party_invite.wav"
+        },
+        "linkshell": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "talked_about.wav"
+        },
+        "party": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "talked_about.wav"
+        },
+        "say": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "talked_about.wav"
+        },
+        "skillup": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "skillup.wav"
+        },
+        "tell": {
+            "enabled": true,
+            "repeat_delay": 5,
+            "sound": "incoming_tell.wav",
+            "volume": 0.5
+        }
+    }
+}
